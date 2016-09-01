@@ -22,7 +22,7 @@ Want to use this as a standalone package ? Checkout the [Forecast-php](https://g
 ## Installation
 
 ``` bash
-$ composer require nwidart/laravel-forecast
+$ composer require sharmil/laravel-forecast
 ```
 
 Add the service provider in `app/config/app.php`
